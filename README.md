@@ -10,7 +10,7 @@ Esta es una libería PHP para validar los códigos bancarios uniformes (CBU) uti
 Vía Composer
 
 ```javascript
-composer require pablorsk/cbu-validator-php
+composer require tecnoher/cbu-validator-php
 ```
 
 ## Ejemplo
