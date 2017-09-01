@@ -1,3 +1,4 @@
+    );
 <?php
 	/**
 	 * https://docs.google.com/spreadsheets/d/1UrK5D64Ye4Agu-SL3jGP83x5D68HPrfckXKyZ3Rnltg/edit?usp=sharing
@@ -71,5 +72,23 @@
         '341' => 'Banco Masventas S.A.',
         '386' => 'Nuevo Banco De Entre Rios S.A.',
         '388' => 'Nuevo Banco Bisel S.A.',
-        '389' => 'Banco Columbia S.A.'
+        '389' => 'Banco Columbia S.A.',
+        '426' => 'Banco Banco BICA S.A.',
+        '431' => 'Banco COINAG S.A.',
+        '432' => 'Banco De COMERCIO S.A.',
+        '44059' => 'Ford Credit Compañia Financiera S.A.',
+        '44077' => 'Compañia Financiera Argentina S.A.',
+        '44088' => 'Volkwagen Financial Services CIA.FIN.S.A',
+        '44090' => 'CORDIAL Compañía Financiera S.A.',
+        '44092' => 'FCA Compañia Financiera S.A.',
+        '44093' => 'GPAT Compañia Financiera S.A.',
+        '44094' => 'Mercedes-Benz Compañía Financiera Argent',
+        '44095' => 'ROMBO Compañía Financiera S.A.',
+        '44096' => 'JOHN DEERE Credit Compañía Financiera S.',
+        '44098' => 'PSA Finance Argentina Compañía Financier',
+        '44099' => 'TOYOTA Compañía Financiera De Argentina',
+        '44100' => 'FINANDINO Compañia Financiera S.A.',
+        '45056' => 'MONTEMAR Compañia Financiera S.A.',
+        '45072' => 'MULTIFINANZAS Compañia Financiera S.A.',
+        '65203' => 'Caja De Credito "CUENCA" Cooperativa LIM'
     );
